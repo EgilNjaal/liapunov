@@ -1,0 +1,22 @@
+{
+  "name": "liapunov",
+  "version": "1.0.0",
+  "description": "Stabilitetsanalyse.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EgilNjaal/liapunov.git"
+  },
+  "author": "EgilNjaal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EgilNjaal/liapunov/issues"
+  },
+  "homepage": "https://github.com/EgilNjaal/liapunov#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
